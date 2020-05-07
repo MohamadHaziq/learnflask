@@ -2,3 +2,10 @@
 __pycache__
 .vscode
 env
+
+## Data Files
+*.db
+*.json
+*.csv
+*.xlsx
+*.ipynb
