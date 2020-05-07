@@ -1,0 +1,4 @@
+## Ignore All The Unrelated
+__pycache__
+.vscode
+env
