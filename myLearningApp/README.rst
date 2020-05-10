@@ -8,7 +8,7 @@ Base Skeleton to start your application using Flask-AppBuilder
 
 - Run it::
 
-    $ export FLASK_APP=app
+    $ export FLASK_APP=app OR set FLASK_app=app for Windows
     # Create an admin user
     $ flask fab create-admin
     # Run dev server
